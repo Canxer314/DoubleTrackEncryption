@@ -1,0 +1,17 @@
+Linux:
+//Double-track encryption/decryption program
+//This program allows the user to encrypt/decryption his text file
+//with an way so called "Double-track encrypting/decryption"
+//Usage: Call the program with an option which you want the program
+//to perform and with a name of the text file which
+//you want to encrypt/decryption seperated by an blank.
+//Such as doubleTrack -e doubleTrack.txt
+
+Windows:
+//将要进行加密或解密的文本文件和双轨密码加解程序放在同一文件夹下
+//打开开始菜单，点击运行，填入cmd，敲击回车，cd进入双轨程序文件夹
+//按照 "[程序名]空格[选项]空格[文件名]" 的格式执行程序
+//[选项]:  -e   --encrypt    加密
+//         -d   --decrypt    解密
+//         -h   --help       查看帮助
+//例如：doubleTrack.exe -e doubleTrack.txt
